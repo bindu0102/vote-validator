@@ -1,0 +1,47 @@
+.box {
+    width: 500px;
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 30px 15px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.input_box {
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 5px auto;
+    background-color: chartreuse;
+}
+
+#input {
+    padding: 12px;
+    color: rgb(14, 13, 13);
+    font-weight: bolder;
+
+}
+
+.btn {
+    padding: 10px;
+    background-color:crimson;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    margin: 5px auto;
+}
+.btn:hover{
+    cursor: pointer;
+    color: black;
+}
+
+.output_box {
+    width: 400px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 5px auto;
+    background-color: rgb(5, 119, 113);
+}
